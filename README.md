@@ -9,19 +9,19 @@
 <h1 align="center">Cookchef</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Pouish85/cookchef?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Pouish85/CookChef?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Pouish85/cookchef?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Pouish85/CookChef?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Pouish85/cookchef?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Pouish85/CookChef?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Pouish85/cookchef?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/Pouish85/CookChef?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Pouish85/cookchef?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Pouish85/CookChef?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Pouish85/cookchef?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Pouish85/CookChef?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Pouish85/cookchef?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Pouish85/CookChef?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -72,10 +72,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Pouish85/cookchef
+$ git clone https://github.com/Pouish85/CookChef
 
 # Access
-$ cd cookchef
+$ cd CookChef
 
 # Install dependencies
 $ yarn
